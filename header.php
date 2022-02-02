@@ -23,8 +23,8 @@
     <nav id="header-nav">
       <ul class="header-list">
         <li><a href="<?php echo esc_url(home_url('/category/products/')); ?>">PRODUCTS</a></li>
-        <li><a href="<?php echo esc_url(home_url('/about/')); ?>">">ABOUT</a></li>
-        <li><a href="<?php echo esc_url(home_url('/company/')); ?>">">COMPANY</a></li>
+        <li><a href="<?php echo esc_url(home_url('/about/')); ?>">ABOUT</a></li>
+        <li><a href="<?php echo esc_url(home_url('/company/')); ?>">COMPANY</a></li>
         <li><a href="mailto:xxxxx@xxx.xxx.com?subject=お問い合わせ">CONTACT</a></li>
       </ul>
     </nav>
